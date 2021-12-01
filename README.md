@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MahsaGholamii
-- 👀 I’m interested in reading boks. Gain knowledge about programming.
+-                                                       ** 👋  Hi, I’m  MahsaGholamii**
+- 👀 I’m interested in reading books and searching about C#. Gain knowledge about backend Develope.
 - 🌱 I’m currently learning Asp. Net
-- 💞️ I’m looking to collaborate on the Field f programming.
+- 💞️ I’m looking to collaborate on the Field of programming.
 
 
 <!---
