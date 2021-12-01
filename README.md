@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading boks. Gain knowledge about programming.
 - 🌱 I’m currently learning Asp. Net
 - 💞️ I’m looking to collaborate on the Field f programming.
-- 📫 How to reach me 
+
 
 <!---
 MahsaGholamii/MahsaGholamii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
